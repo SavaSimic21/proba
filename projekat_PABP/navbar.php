@@ -6,7 +6,7 @@
                 <a class="nav-link" href="index.php" style="color: black;">Početna</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="movies.php" style="color: black;">Filmovi</a>
+                <a class="nav-link" href="movies.php" style="color: black;">Filmovii</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="series.php" style="color: black;">Serije</a>
